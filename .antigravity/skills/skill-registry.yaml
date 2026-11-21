@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: kiribatian-restitution-roadmap-and-qsf-trust-execution
-  name: Kiribatian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/kiribatian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ki_001
+    name: Kiribati Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_002
+    name: Kiribati Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_003
+    name: Kiribati Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_004
+    name: Kiribati Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_005
+    name: Kiribati Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_006
+    name: Kiribati Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_007
+    name: Kiribati Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_008
+    name: Kiribati Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_009
+    name: Kiribati Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_010
+    name: Kiribati Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_011
+    name: Kiribati Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_012
+    name: Kiribati Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_013
+    name: Kiribati Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_014
+    name: Kiribati Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_015
+    name: Kiribati Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_016
+    name: Kiribati Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_017
+    name: Kiribati Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_018
+    name: Kiribati Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_019
+    name: Kiribati Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_020
+    name: Kiribati Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_021
+    name: Kiribati Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_022
+    name: Kiribati Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_023
+    name: Kiribati Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_024
+    name: Kiribati Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_025
+    name: Kiribati Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_026
+    name: Kiribati Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_027
+    name: Kiribati Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_028
+    name: Kiribati Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_029
+    name: Kiribati Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_030
+    name: Kiribati Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_031
+    name: Kiribati Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_032
+    name: Kiribati Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_033
+    name: Kiribati Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_034
+    name: Kiribati Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_035
+    name: Kiribati Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_036
+    name: Kiribati Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_037
+    name: Kiribati Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_038
+    name: Kiribati Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_039
+    name: Kiribati Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_040
+    name: Kiribati Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_041
+    name: Kiribati Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_042
+    name: Kiribati Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_043
+    name: Kiribati Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_044
+    name: Kiribati Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_045
+    name: Kiribati Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_046
+    name: Kiribati Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_047
+    name: Kiribati Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_048
+    name: Kiribati Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_049
+    name: Kiribati Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_050
+    name: Kiribati Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_051
+    name: Kiribati Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_052
+    name: Kiribati Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_053
+    name: Kiribati Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_054
+    name: Kiribati Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_055
+    name: Kiribati Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_056
+    name: Kiribati Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_057
+    name: Kiribati Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_058
+    name: Kiribati Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_059
+    name: Kiribati Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_060
+    name: Kiribati Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_061
+    name: Kiribati Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_062
+    name: Kiribati Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_063
+    name: Kiribati Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_064
+    name: Kiribati Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_065
+    name: Kiribati Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_066
+    name: Kiribati Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_067
+    name: Kiribati Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_068
+    name: Kiribati Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_069
+    name: Kiribati Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_070
+    name: Kiribati Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_071
+    name: Kiribati Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_072
+    name: Kiribati Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_073
+    name: Kiribati Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_074
+    name: Kiribati Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_075
+    name: Kiribati Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_076
+    name: Kiribati Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_077
+    name: Kiribati Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_078
+    name: Kiribati Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_079
+    name: Kiribati Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_080
+    name: Kiribati Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_081
+    name: Kiribati Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_082
+    name: Kiribati Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_083
+    name: Kiribati Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_084
+    name: Kiribati Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_085
+    name: Kiribati Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_086
+    name: Kiribati Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_087
+    name: Kiribati Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_088
+    name: Kiribati Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_089
+    name: Kiribati Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_090
+    name: Kiribati Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_091
+    name: Kiribati Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_092
+    name: Kiribati Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_093
+    name: Kiribati Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_094
+    name: Kiribati Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_095
+    name: Kiribati Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_096
+    name: Kiribati Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_097
+    name: Kiribati Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_098
+    name: Kiribati Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_099
+    name: Kiribati Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_100
+    name: Kiribati Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_101
+    name: Kiribati Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_102
+    name: Kiribati Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_103
+    name: Kiribati Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_104
+    name: Kiribati Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_105
+    name: Kiribati Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_106
+    name: Kiribati Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_107
+    name: Kiribati Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_108
+    name: Kiribati Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_109
+    name: Kiribati Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_110
+    name: Kiribati Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_111
+    name: Kiribati Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_112
+    name: Kiribati Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_113
+    name: Kiribati Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_114
+    name: Kiribati Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_115
+    name: Kiribati Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_116
+    name: Kiribati Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_117
+    name: Kiribati Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_118
+    name: Kiribati Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_119
+    name: Kiribati Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_120
+    name: Kiribati Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_121
+    name: Kiribati Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_122
+    name: Kiribati Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_123
+    name: Kiribati Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_124
+    name: Kiribati Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_125
+    name: Kiribati Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_126
+    name: Kiribati Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_127
+    name: Kiribati Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_128
+    name: Kiribati Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_129
+    name: Kiribati Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_130
+    name: Kiribati Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_131
+    name: Kiribati Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_132
+    name: Kiribati Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_133
+    name: Kiribati Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_134
+    name: Kiribati Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_135
+    name: Kiribati Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_136
+    name: Kiribati Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_137
+    name: Kiribati Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_138
+    name: Kiribati Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_139
+    name: Kiribati Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_140
+    name: Kiribati Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_141
+    name: Kiribati Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_142
+    name: Kiribati Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_143
+    name: Kiribati Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_144
+    name: Kiribati Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_145
+    name: Kiribati Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_146
+    name: Kiribati Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_147
+    name: Kiribati Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_148
+    name: Kiribati Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_149
+    name: Kiribati Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_150
+    name: Kiribati Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_151
+    name: Kiribati Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_152
+    name: Kiribati Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_153
+    name: Kiribati Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_154
+    name: Kiribati Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_155
+    name: Kiribati Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_156
+    name: Kiribati Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_157
+    name: Kiribati Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_158
+    name: Kiribati Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_159
+    name: Kiribati Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_160
+    name: Kiribati Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_161
+    name: Kiribati Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_162
+    name: Kiribati Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_163
+    name: Kiribati Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_164
+    name: Kiribati Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_165
+    name: Kiribati Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_166
+    name: Kiribati Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_167
+    name: Kiribati Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_168
+    name: Kiribati Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_169
+    name: Kiribati Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_170
+    name: Kiribati Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_171
+    name: Kiribati Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_172
+    name: Kiribati Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_173
+    name: Kiribati Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_174
+    name: Kiribati Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_175
+    name: Kiribati Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_176
+    name: Kiribati Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_177
+    name: Kiribati Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_178
+    name: Kiribati Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_179
+    name: Kiribati Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_180
+    name: Kiribati Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_181
+    name: Kiribati Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_182
+    name: Kiribati Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_183
+    name: Kiribati Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_184
+    name: Kiribati Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_185
+    name: Kiribati Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_186
+    name: Kiribati Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_187
+    name: Kiribati Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_188
+    name: Kiribati Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_189
+    name: Kiribati Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_190
+    name: Kiribati Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_191
+    name: Kiribati Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_192
+    name: Kiribati Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_193
+    name: Kiribati Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_194
+    name: Kiribati Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_195
+    name: Kiribati Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_196
+    name: Kiribati Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_197
+    name: Kiribati Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_198
+    name: Kiribati Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_199
+    name: Kiribati Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_200
+    name: Kiribati Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_201
+    name: Kiribati Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_202
+    name: Kiribati Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_203
+    name: Kiribati Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_204
+    name: Kiribati Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_205
+    name: Kiribati Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_206
+    name: Kiribati Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_207
+    name: Kiribati Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_208
+    name: Kiribati Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_209
+    name: Kiribati Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_210
+    name: Kiribati Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_211
+    name: Kiribati Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_212
+    name: Kiribati Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_213
+    name: Kiribati Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_214
+    name: Kiribati Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_215
+    name: Kiribati Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_216
+    name: Kiribati Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_217
+    name: Kiribati Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_218
+    name: Kiribati Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_219
+    name: Kiribati Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_220
+    name: Kiribati Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_221
+    name: Kiribati Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_222
+    name: Kiribati Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_223
+    name: Kiribati Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_224
+    name: Kiribati Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_225
+    name: Kiribati Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_226
+    name: Kiribati Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_227
+    name: Kiribati Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_228
+    name: Kiribati Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_229
+    name: Kiribati Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_230
+    name: Kiribati Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_231
+    name: Kiribati Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_232
+    name: Kiribati Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_233
+    name: Kiribati Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_234
+    name: Kiribati Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_235
+    name: Kiribati Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_236
+    name: Kiribati Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_237
+    name: Kiribati Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_238
+    name: Kiribati Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_239
+    name: Kiribati Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_240
+    name: Kiribati Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_241
+    name: Kiribati Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_242
+    name: Kiribati Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_243
+    name: Kiribati Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_244
+    name: Kiribati Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_245
+    name: Kiribati Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_246
+    name: Kiribati Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_247
+    name: Kiribati Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_248
+    name: Kiribati Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_249
+    name: Kiribati Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_250
+    name: Kiribati Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_251
+    name: Kiribati Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ki_252
+    name: Kiribati Skill 252
+    status: ACTIVE_SCAFFOLD

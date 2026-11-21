@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-kiribati-canal-and-intervention-historian
-  name: Kiribati Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-kiribati-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ki_001
+    name: Kiribati Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_002
+    name: Kiribati Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_003
+    name: Kiribati Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_004
+    name: Kiribati Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_005
+    name: Kiribati Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_006
+    name: Kiribati Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_007
+    name: Kiribati Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_008
+    name: Kiribati Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_009
+    name: Kiribati Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_010
+    name: Kiribati Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_011
+    name: Kiribati Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_012
+    name: Kiribati Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_013
+    name: Kiribati Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_014
+    name: Kiribati Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_015
+    name: Kiribati Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_016
+    name: Kiribati Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_017
+    name: Kiribati Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_018
+    name: Kiribati Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_019
+    name: Kiribati Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_020
+    name: Kiribati Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_021
+    name: Kiribati Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_022
+    name: Kiribati Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_023
+    name: Kiribati Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_024
+    name: Kiribati Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_025
+    name: Kiribati Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_026
+    name: Kiribati Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_027
+    name: Kiribati Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_028
+    name: Kiribati Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_029
+    name: Kiribati Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_030
+    name: Kiribati Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_031
+    name: Kiribati Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_032
+    name: Kiribati Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_033
+    name: Kiribati Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_034
+    name: Kiribati Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_035
+    name: Kiribati Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_036
+    name: Kiribati Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_037
+    name: Kiribati Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_038
+    name: Kiribati Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_039
+    name: Kiribati Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_040
+    name: Kiribati Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_041
+    name: Kiribati Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_042
+    name: Kiribati Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_043
+    name: Kiribati Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_044
+    name: Kiribati Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_045
+    name: Kiribati Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_046
+    name: Kiribati Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_047
+    name: Kiribati Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_048
+    name: Kiribati Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_049
+    name: Kiribati Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_050
+    name: Kiribati Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_051
+    name: Kiribati Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_052
+    name: Kiribati Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_053
+    name: Kiribati Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_054
+    name: Kiribati Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_055
+    name: Kiribati Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_056
+    name: Kiribati Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_057
+    name: Kiribati Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_058
+    name: Kiribati Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_059
+    name: Kiribati Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_060
+    name: Kiribati Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_061
+    name: Kiribati Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_062
+    name: Kiribati Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_063
+    name: Kiribati Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_064
+    name: Kiribati Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_065
+    name: Kiribati Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_066
+    name: Kiribati Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_067
+    name: Kiribati Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_068
+    name: Kiribati Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_069
+    name: Kiribati Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_070
+    name: Kiribati Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_071
+    name: Kiribati Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_072
+    name: Kiribati Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_073
+    name: Kiribati Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_074
+    name: Kiribati Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_075
+    name: Kiribati Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_076
+    name: Kiribati Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_077
+    name: Kiribati Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_078
+    name: Kiribati Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_079
+    name: Kiribati Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_080
+    name: Kiribati Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_081
+    name: Kiribati Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_082
+    name: Kiribati Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_083
+    name: Kiribati Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_084
+    name: Kiribati Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_085
+    name: Kiribati Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_086
+    name: Kiribati Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_087
+    name: Kiribati Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_088
+    name: Kiribati Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_089
+    name: Kiribati Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_090
+    name: Kiribati Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_091
+    name: Kiribati Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_092
+    name: Kiribati Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_093
+    name: Kiribati Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_094
+    name: Kiribati Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_095
+    name: Kiribati Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_096
+    name: Kiribati Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_097
+    name: Kiribati Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_098
+    name: Kiribati Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_099
+    name: Kiribati Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_100
+    name: Kiribati Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_101
+    name: Kiribati Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_102
+    name: Kiribati Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_103
+    name: Kiribati Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_104
+    name: Kiribati Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_105
+    name: Kiribati Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_106
+    name: Kiribati Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_107
+    name: Kiribati Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_108
+    name: Kiribati Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_109
+    name: Kiribati Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_110
+    name: Kiribati Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_111
+    name: Kiribati Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_112
+    name: Kiribati Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_113
+    name: Kiribati Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_114
+    name: Kiribati Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_115
+    name: Kiribati Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_116
+    name: Kiribati Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_117
+    name: Kiribati Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_118
+    name: Kiribati Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_119
+    name: Kiribati Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_120
+    name: Kiribati Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_121
+    name: Kiribati Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_122
+    name: Kiribati Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_123
+    name: Kiribati Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_124
+    name: Kiribati Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_125
+    name: Kiribati Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_126
+    name: Kiribati Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_127
+    name: Kiribati Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_128
+    name: Kiribati Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_129
+    name: Kiribati Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_130
+    name: Kiribati Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_131
+    name: Kiribati Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_132
+    name: Kiribati Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_133
+    name: Kiribati Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_134
+    name: Kiribati Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_135
+    name: Kiribati Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_136
+    name: Kiribati Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_137
+    name: Kiribati Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_138
+    name: Kiribati Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_139
+    name: Kiribati Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_140
+    name: Kiribati Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_141
+    name: Kiribati Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_142
+    name: Kiribati Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_143
+    name: Kiribati Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_144
+    name: Kiribati Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_145
+    name: Kiribati Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_146
+    name: Kiribati Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_147
+    name: Kiribati Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_148
+    name: Kiribati Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_149
+    name: Kiribati Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_150
+    name: Kiribati Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_151
+    name: Kiribati Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_152
+    name: Kiribati Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_153
+    name: Kiribati Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_154
+    name: Kiribati Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_155
+    name: Kiribati Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_156
+    name: Kiribati Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_157
+    name: Kiribati Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_158
+    name: Kiribati Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_159
+    name: Kiribati Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_160
+    name: Kiribati Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_161
+    name: Kiribati Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_162
+    name: Kiribati Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_163
+    name: Kiribati Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_164
+    name: Kiribati Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_165
+    name: Kiribati Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_166
+    name: Kiribati Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_167
+    name: Kiribati Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_168
+    name: Kiribati Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_169
+    name: Kiribati Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ki_170
+    name: Kiribati Agent 170
+    status: ACTIVE_SCAFFOLD
