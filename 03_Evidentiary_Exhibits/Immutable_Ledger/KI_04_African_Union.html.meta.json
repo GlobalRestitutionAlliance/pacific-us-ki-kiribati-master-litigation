@@ -33,5 +33,10 @@
     "Permissions-Policy": "geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=()",
     "CF-RAY": "a5e304c14e4003e0-MIA",
     "alt-svc": "h3=\":443\"; ma=86400"
-  }
+  },
+  "http_status": 200,
+  "fetched_at": "2026-11-21T22:06:44.856594Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }

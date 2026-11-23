@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/kiribati",
+  "final_url": "https://data.worldbank.org/country/kiribati",
+  "title": "World Bank Kiribati",
+  "fetched_at": "2026-11-23T09:31:32.996435Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44509,
+  "sha256": "9ffd3c6afe6967f8bb7d987e51c37890ef855b5b02c78dd92b533fc4f6fc8bf4",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}
