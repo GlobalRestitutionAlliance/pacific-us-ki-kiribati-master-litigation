@@ -41,10 +41,5 @@
     "vary": "X-Bin,X-Consumer-ID,Accept-Encoding, Cookie",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin"
-  },
-  "http_status": 200,
-  "fetched_at": "2026-11-21T22:06:43.554437Z",
-  "substantive": true,
-  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+  }
 }
