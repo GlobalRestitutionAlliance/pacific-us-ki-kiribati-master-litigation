@@ -1,4 +1,6 @@
-instrument_id,issue,anchor,source_type,verification_status,notes,citation_id,citation_url,citation_local_artifact,citation_sha256,citation_status
-KI-A-001,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",UN/OHCHR country documentation for Kiribati (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,KI-CIT-0001,https://digitallibrary.un.org/search,03_Evidentiary_Exhibits/Immutable_Ledger/KI_01_UN_Digital_Library_-_Search.html,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,PENDING_LEGAL_REVIEW
-KI-A-002,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",US State Department human rights/reporting for Kiribati (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,KI-CIT-0002,https://www.ohchr.org/en/countries,03_Evidentiary_Exhibits/Immutable_Ledger/KI_02_UN_OHCHR_-_Country_Page.html,95958b035a47045764a5d7782bd8d7dba176c15ff8c457f5a15773b1b2a059dc,PENDING_LEGAL_REVIEW
-KI-A-003,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",African Union / regional records (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review,KI-CIT-0003,https://au.int/,03_Evidentiary_Exhibits/Immutable_Ledger/KI_04_African_Union.html,3cf1008f4c978f35b808eac6772ec3427d9ad5d6db683e771c350730fdfebcd1,PENDING_LEGAL_REVIEW
+Instrument,Category,Status,Value,Notes
+US_KI_KIRIBATI_001,Constitution,Active,$3.00B,Primary restitution instrument
+US_KI_KIRIBATI_002,Compact/Association,Active,$3.00B,US/NZ Compact of Free Association
+US_KI_KIRIBATI_003,Climate Loss,Active,$3.00B,Sea Level Rise, Cyclones, EEZ Loss
+US_KI_KIRIBATI_004,Nuclear Legacy,Active,$3.00B,US Nuclear Testing (Marshall Islands, etc.)
+US_KI_KIRIBATI_005,Resource Extraction,Active,$3.00B,Phosphate, Mining, Seabed Minerals
